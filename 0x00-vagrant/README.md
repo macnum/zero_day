@@ -1,0 +1,1 @@
+Initiallize vagrant folder
